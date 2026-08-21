@@ -33,3 +33,9 @@ Sistem monitoring membantu mempermudah pemantauan kondisi perangkat dan memperce
 Screenshot dashboard monitoring akan ditampilkan pada repository ini.
 
 > Catatan: Source code dan konfigurasi asli project tidak dipublikasikan karena merupakan bagian dari lingkungan kerja/perusahaan.
+
+## Screenshot
+
+### Dashboard Monitoring
+
+![Dashboard Monitoring](Cuplikan%20layar%202026-08-21%20163041.png)
